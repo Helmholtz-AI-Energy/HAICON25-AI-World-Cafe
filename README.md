@@ -1,4 +1,6 @@
 # World Cafe planning - HAICON 2025
+![image](https://github.com/user-attachments/assets/a87e5bc0-0876-428d-8ea0-cd44b436c9be)
+
 
 ##  🌟 We need your contrubition 🌟
 
