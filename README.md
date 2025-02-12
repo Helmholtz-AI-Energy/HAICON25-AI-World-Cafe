@@ -37,7 +37,7 @@ This is more than just a conference; it's a chance to shape the future of AI res
 Looking forward to your innovative contributions and to seeing you at the Helmholtz AI Conference.
 
 ❓ Questions ❓ 
-📧 contact <helene.hoffmann@hzdr.de> or  <s.wenzel@fz-juelich.de>
+📧 contact <s.wenzel@fz-juelich.de>
 
 ## Topic list
 
