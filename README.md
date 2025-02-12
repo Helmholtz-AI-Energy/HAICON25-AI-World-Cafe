@@ -1,6 +1,7 @@
 # World Cafe planning - HAICON 2025
-![image](https://github.com/user-attachments/assets/a87e5bc0-0876-428d-8ea0-cd44b436c9be)
 
+<p align="center">
+  <img src="[https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b](https://github.com/user-attachments/assets/a87e5bc0-0876-428d-8ea0-cd44b436c9be)" height="40">
 
 ##  🌟 We need your contrubition 🌟
 
