@@ -3,8 +3,9 @@
 <p align="center">
   <img src="https://github.com/Helmholtz-AI-Energy/HAICON25-Prologue-Day/blob/main/images/logo.jpg" height="150">
 
-🚀 **TLDR**: We’re excited to see your proposals for World Café topics. **Please create a GitHub Issue** using the **[World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template** to propose a topic that you’re passionate about and are committed to hosting the discussion.
+## 
 
+🚀 **TLDR**: We’re excited to see your proposals for World Café topics. **Please create a GitHub Issue** using the **[World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template** to propose a topic that you’re passionate about and are committed to hosting the discussion.
 ##
 
 ##  🌟 We need your contribution 🌟
