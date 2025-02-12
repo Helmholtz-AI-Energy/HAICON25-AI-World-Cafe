@@ -1,7 +1,7 @@
 # World Cafe planning - HAICON 2025
 
 <p align="center">
-  <img src="https://github.com/Helmholtz-AI-Energy/HAICON25-Prologue-Day/blob/main/images/logo.jpg" height="40">
+  <img src="https://github.com/Helmholtz-AI-Energy/HAICON25-Prologue-Day/blob/main/images/logo.jpg" height="150">
 
 ##  🌟 We need your contrubition 🌟
 
