@@ -1,7 +1,7 @@
 # HAICON 2025 - AI World Cafe
 
 <p align="center">
-  <img src="https://github.com/Helmholtz-AI-Energy/HAICON25-Prologue-Day/blob/main/images/logo.jpg" height="150">
+  <img src="https://github.com/Helmholtz-AI-Energy/HAICON25-Prologue-Day/blob/main/images/logo.jpg" height="100">
 
 ## 
 
