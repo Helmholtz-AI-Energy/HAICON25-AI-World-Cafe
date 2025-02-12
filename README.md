@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://github.com/Helmholtz-AI-Energy/HAICON25-Prologue-Day/blob/main/images/logo.jpg" height="150">
 
-##  🌟 We need your contrubition 🌟
+**TLDR**: We’re excited to see your proposals for World Café topics. **Please create a GitHub Issue** using the [World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template to propse a topic that you’re passionate about and are comitted to host the discussion.
+
+##  🌟 We need your contribution 🌟
 
 At last year's Helmholtz AI conference ([haicon24.de](https://haicon24.de/)), we introduced the AI World Café as an interactive format fostering lively discussions within our community and with external guests. We had intensive and fruitful discussion at 12 tables with about 120 participants. An impression about the event and key outcome summaries can be found [here](https://www.helmholtz.ai/latest/helmholtz-ai-conference/helmholtz-ai-conference-2024-a-world-cafe-wrap/).
 
@@ -34,7 +36,7 @@ Your engagement is invaluable, not just for the visibility of your work within t
 **🚀 Ready to Make an Impact?**
 
 We’re excited to see your topics. 
-Please create a GitHub Issue using th [World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/blob/main/.github/ISSUE_TEMPLATE/haicon25--WorldCafe-template.md) template.
+** Please create a GitHub Issue** using the [World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template.
 
 This is more than just a conference; it's a chance to shape the future of AI research and collaboration.
 
