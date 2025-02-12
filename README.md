@@ -33,7 +33,8 @@ Your engagement is invaluable, not just for the visibility of your work within t
 
 **🚀 Ready to Make an Impact?**
 
-We’re excited to see your topics. Please fill in your proposals in the table below.
+We’re excited to see your topics. 
+Please create a GitHub Issue using th [World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/blob/main/.github/ISSUE_TEMPLATE/haicon25--WorldCafe-template.md) template.
 
 This is more than just a conference; it's a chance to shape the future of AI research and collaboration.
 
@@ -42,21 +43,7 @@ Looking forward to your innovative contributions and to seeing you at the Helmho
 ❓ Questions ❓ 
 📧 contact <s.wenzel@fz-juelich.de>
 
-## Topic list
 
-
-| # | Host name | E-mail address |   Topic |
-| ---  | -------- | -------- | ---------|
-| 1  |      |    |   |   |
-| 2  |      |    |   |   |
-| 3  |      |    |   |   |
-| 4  |      |    |   |   |
-| 5  |      |    |   |   |
-| 6  |      |    |   |   |
-| 7  |      |    |   |   |
-| 8  |      |    |   |   |
-| 9  |      |    |   |   |
-| 10 |      |    |   |   |
 
 ## Topic examples
 
