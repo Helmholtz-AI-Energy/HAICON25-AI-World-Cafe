@@ -5,7 +5,7 @@
 
 ## 
 
-🚀 **TLDR**: We’re excited to see your proposals for World Café topics. **Please create a GitHub Issue** using the **[World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template** to propose a topic that you’re passionate about and are committed to hosting the discussion.
+🚀 **TLDR**: We’re excited to see your proposals for AI World Café topics. **Please create a GitHub Issue using the [World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template** to propose a topic that you’re passionate about and are committed to hosting the discussion.
 ##
 
 ##  🌟 We need your contribution 🌟
@@ -36,7 +36,7 @@ Your engagement is invaluable, not just for the visibility of your work within t
 - Connect with like-minded professionals, fostering meaningful exchanges.
 - Contribute to a culture of innovation within and beyond our community.
 
-**🚀 Ready to Make an Impact?**
+##🚀 Ready to Make an Impact?
 
 We’re excited to see your topics. 
 **Please create a GitHub Issue using the [World Café Issue](https://github.com/Helmholtz-AI-Energy/HAICON25-AI-World-Cafe/issues) template**.
@@ -45,10 +45,11 @@ This is more than just a conference; it's a chance to shape the future of AI res
 
 Looking forward to your innovative contributions and to seeing you at the Helmholtz AI Conference.
 
+---
 ❓ Questions ❓ 
 📧 contact <s.wenzel@fz-juelich.de>
 
-
+##
 
 ## Topic examples
 
