@@ -2,7 +2,7 @@
 name: HelmholtzAI 2025 - AI World Café Topic
 about: This is the template that can be used to propose a World Café topic
 title: ''
-labels: worldcafe
+labels: world_cafe
 assignees: ''
 
 ---
